@@ -7,11 +7,15 @@ using namespace std;
 
 
 
-int main() {
+int 
 
+main() {
 
+	Menu main;
 
-	Hyundaii30();
+	main.menu();
+
+	
 
 
 

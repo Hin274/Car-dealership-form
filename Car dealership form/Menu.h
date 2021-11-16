@@ -7,7 +7,8 @@ using namespace std;
 
 class Menu
 {
-
+public:		
+	void menu();
 
 };
 

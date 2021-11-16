@@ -3,30 +3,23 @@
 
 using namespace std;
 
-class Hyundaii30 {
+class Hyundai {
 public: 
-	string model{};
-	double engine{};
-	string fuel{};
-	int doors{};
-	int seats{};
-	string gear{};
-
-
+	void i30();
+	void Kona();
 };
 
-class HyundaiKona {
+class Vauxhall {
 public:
-	string model{};
-	double engine{};
-	string fuel{};
-	int doors{};
-	int seats{};
-	string gear{};
-
-
+	void Corsa();
+	void Astra();
 };
 
+class VolksWagen {
+public:
+	void Golf();
+	void Polo();
+};
 
 
 
