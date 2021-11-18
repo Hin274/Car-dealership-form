@@ -12,12 +12,9 @@ int
 main() {
 
 	Menu main;
-
 	main.menu();
-
 	
-
-
+	
 
 	return 0;
 }

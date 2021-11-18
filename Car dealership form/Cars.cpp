@@ -3,7 +3,7 @@
 
 void Hyundai::i30() {
 	
-	auto specificationi30 = { "Model: i30", "Engine: 1.4","Fuel: Petrol","Doors: 5","Seats: 4","Gear: Manual","Price: 20,000 Pounds"};
+	auto specificationi30 = { "Model: i30", "Engine: 1.4","Fuel: Petrol","Doors: 5","Seats: 4","Gear: Manual","Price: 20,550 Pounds"};
 
 	for (auto listi30 : specificationi30) {
 		cout << listi30 << endl;
@@ -13,7 +13,7 @@ void Hyundai::i30() {
 
 void Hyundai::Kona() {
 	
-	auto specificationKona = { "Model: Kona", "Engine: 1.2","Fuel: Diesel","Doors: 3","Seats: 2","Gear: Automatic","Price: 25,000 Pounds" };
+	auto specificationKona = { "Model: Kona", "Engine: 1.2","Fuel: Diesel","Doors: 3","Seats: 2","Gear: Automatic","Price: 25,300 Pounds" };
 
 	for (auto listKona : specificationKona) {
 		cout << listKona << endl;
@@ -32,7 +32,7 @@ void Vauxhall::Corsa(){
 
 void Vauxhall::Astra() {
 
-	auto specificationAstra = { "Model: Astra", "Engine: 1.2","Fuel: Petrol","Doors: 5","Seats: 4","Gear: Manual","Price: 21,000 Pounds" };
+	auto specificationAstra = { "Model: Astra", "Engine: 1.2","Fuel: Petrol","Doors: 5","Seats: 4","Gear: Manual","Price: 21,200 Pounds" };
 
 	for (auto listAstra : specificationAstra) {
 		cout << listAstra << endl;
@@ -41,7 +41,7 @@ void Vauxhall::Astra() {
 
 void VolksWagen::Golf() {
 
-	auto specificationGolf = { "Model: Golf", "Engine: Plug-in Hybrid 1.4 & 10,4kWh","Fuel: Petrol & Electric","Doors: 5","Seats: 4","Gear: Automatic","Price: 22,000 Pounds" };
+	auto specificationGolf = { "Model: Golf", "Engine: Plug-in Hybrid 1.4 & 10,4kWh","Fuel: Petrol & Electric","Doors: 5","Seats: 4","Gear: Automatic","Price: 22,350 Pounds" };
 
 	for (auto listGolf : specificationGolf) {
 		cout << listGolf << endl;
@@ -50,7 +50,7 @@ void VolksWagen::Golf() {
 
 void VolksWagen::Polo() {
 
-	auto specificationPolo = { "Model: Polo", "Engine: 1.2","Fuel: Petrol","Doors: 5","Seats: 4","Gear: Manual","Price: 18,000 Pounds" };
+	auto specificationPolo = { "Model: Polo", "Engine: 1.2","Fuel: Petrol","Doors: 5","Seats: 4","Gear: Manual","Price: 18,100 Pounds" };
 
 	for (auto listPolo : specificationPolo) {
 		cout << listPolo << endl;
