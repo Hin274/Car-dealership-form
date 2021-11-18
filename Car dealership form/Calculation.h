@@ -20,8 +20,8 @@ public:
 	int golfprice = 22350;
 	int poloprice = 18100;
 
-	int deposit;
-	int monthly;
+	int deposit = 0;
+	int monthly = 0;
 	
 	
 };
