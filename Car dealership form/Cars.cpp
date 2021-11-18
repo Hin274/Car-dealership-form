@@ -1,6 +1,6 @@
 #include "Cars.h"
 
-
+//car brands and model specs
 void Hyundai::i30() {
 	
 	auto specificationi30 = { "Model: i30", "Engine: 1.4","Fuel: Petrol","Doors: 5","Seats: 4","Gear: Manual","Price: 20,550 Pounds"};

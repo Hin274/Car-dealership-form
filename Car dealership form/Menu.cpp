@@ -4,7 +4,7 @@
 
 
 void Menu::menu() {
-	
+	//select brand
 	cout << "Car brands" << endl;
 	cout << "=============" << endl;
 	cout << hyundai << endl;
@@ -13,7 +13,8 @@ void Menu::menu() {
 	cout << "=============" << endl;
 	cout << "Choose your make" << endl;
 
-
+	/*select brand then input car model
+	then it will calculate the cost to pay for the car if you put a smaller deposit*/
 	do
 	{
 		cin >> menuinput;

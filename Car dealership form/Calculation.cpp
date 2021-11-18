@@ -1,6 +1,6 @@
 #include "Calculation.h"
 
-
+//cost calculation for each car model
 void Calculation::i30calc() {
 
 	do
